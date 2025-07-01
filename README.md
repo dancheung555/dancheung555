@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on anomaly detection, LSTMs, and a maze solver before university starts again.<br>👯 I’m looking to collaborate on projects including data processing, LLMs, NLP, and <br>🤝 I’m looking for help with clustering machine learning such as K means and KNN, as well as working with AWS.<br>🌱 I’m currently learning Machine Learning, Stochastic Processes, and path-finding/mapping algorithms!<br>💬 Ask me about Java, C++, R, or Python. I love studying computer programming and wish to build more projects! You can also ask me about my studies in Hong Kong and my life between the US and Hong Kong!<br>⚡ Fun facts about me: I enjoy making small games (except I struggle with Frontend), I love making origami and Taekwondo! I love studying all kinds of models relating to Time Series, Data Manipulation, and Machine Learning.
 
+I am in my third year at the University of Hong Kong (HKU), and I am looking forward to studying as much as I can every day! Hope to work on fascinating projects more and more 😊
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/daniel-cheung-174165249/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dancheung555@gmail.com) 
