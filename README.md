@@ -9,7 +9,7 @@ I am in my final year at the University of Hong Kong (HKU), and I am looking for
  
 ## Socials
 Add me on linkedin: https://www.linkedin.com/in/daniel-cheung-174165249/
-<br> Email me: mailto:dancheung555@gmail.com
+<br> Email me: dancheung555@gmail.com
 
 ## Project focus
 My projects involve but are not limited to:
@@ -19,6 +19,7 @@ My projects involve but are not limited to:
 - R
 - Java
 - Go
+
 <br> Topics:
 - Bioinformatics
 - Quantitative Finance
