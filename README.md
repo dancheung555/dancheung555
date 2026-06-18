@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am in my final year at the University of Hong Kong (HKU), and I am looking forward to expanding my horizon with new topics everyday. I hope to work on more fascinating projects!
 <br> In research, I am focused on variant representation unification at the University of Hong Kong, and in my free time I am working on side projects such as survival simulations.
 <br> My current focus is bioinformatics, but also includes survival analysis, deep learning, advanced tree/search/detecting algorithms, and time series analysis.
